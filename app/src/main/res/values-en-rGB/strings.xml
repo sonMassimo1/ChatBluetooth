@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">  Scan  </string>
+    <string name="btnSend">Send</string>
+    <string name="hint_message">Type a message</string>
+    <string name="menu_chatlist_delete">Delete</string>
+    <string name="error_user_disconnected">The user has disconnected</string>
+    <string name="inizio_ricerca">Scanning...</string>
+    <string name="fine_ricerca">Scan complete</string>
+    <string name="stop_ricerca">Scan stopped</string>
+    <string name="chat_list">Chat list</string>
+    <string name="connessione">Connecting...</string>
+    <string name="risultati_ricerca">Scan results:</string>
+    <string name="avvia_ricerca">Scan</string>
+    <string name="interrompi_ricerca">Stop</string>
+    <string name="chat_deleted">Chat deleted</string>
+    <string name="no_chat_to_delete">There are no chats to delete</string>
+    <string name="message_deleted">Message deleted</string>
+    <string name="no_message_to_delete">There are no messages to delete</string>
+    <string name="descr_iv_invia_messaggio">Send message</string>
+    <string name="descr_iv_aes">On_Off_AES</string>
+    <string name="menu_delete_all">Delete all chats</string>
+    <string name="chats_deleted">All chats deleted</string>
+    <string name="nome_gruppo">Team: QR...ntine</string>
+    <string name="membri_gruppo">Members: Bramucci Adriano, Conti Matteo, Mazzetti Massimo, Picchioni Stefano</string>
+    <string name="nome_progetto">Project: Bluetooth Chat</string>
+    <string name="nome_corso">Course: Mobile Programming 2020</string>
+    <string name="about_us">About us</string>
+    <string name="Cerca_msg">Search Message</string>
+    <string name="le_tue_conversazioni">Your chats:</string>
+    <string name="messages_deleted">Messages deleted</string>
+</resources>

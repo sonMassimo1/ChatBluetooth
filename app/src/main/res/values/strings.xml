@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">ChatBluetooth</string>
+    <string name="search">  Ricerca  </string>
+    <string name="chat" translatable="false">  Chat  </string>
+    <string name="btnSend">Invia</string>
+    <string name="hint_message">Inserisci messaggio</string>
+    <string name="menu_chatlist_delete">Elimina</string>
+    <string name="error_user_disconnected">L\'utente si e\' disconnesso</string>
+    <string name="inizio_ricerca">Ricerca...</string>
+    <string name="fine_ricerca">Ricerca completata</string>
+    <string name="stop_ricerca">Ricerca interrotta</string>
+    <string name="main_title" translatable="false">Bluetooth chat</string>
+    <string name="chat_list">Lista chat</string>
+    <string name="connessione">Connessione...</string>
+    <string name="risultati_ricerca">Risultati ricerca:</string>
+    <string name="avvia_ricerca">Avvia ricerca</string>
+    <string name="interrompi_ricerca">Interrompi ricerca</string>
+    <string name="chat_deleted">Chat eliminata</string>
+    <string name="chats_deleted">Chat eliminate</string>
+    <string name="no_chat_to_delete">Non ci sono chat da eliminare</string>
+    <string name="message_deleted">Messaggio eliminato</string>
+    <string name="no_message_to_delete">Non ci sono messaggi da eliminare</string>
+    <string name="descr_iv_invia_messaggio">Invia messaggio</string>
+    <string name="descr_iv_aes">Attiva_Disattiva AES</string>
+    <string name="descr_iv_emoticons" translatable="false">Emoticons</string>
+    <string name="menu_delete_all">Cancella tutte le chat</string>
+    <string name="messaggi" translatable="false">messaggi</string>
+    <string name="nome_gruppo">Gruppo: QR...ntine</string>
+    <string name="about_us">Chi siamo</string>
+    <string name="membri_gruppo">Membri: Bramucci Adriano, Conti Matteo, Mazzetti Massimo, Picchioni Stefano</string>
+    <string name="nome_progetto">Progetto: Chat Bluetooth</string>
+    <string name="nome_corso">Corso: Mobile Programming 2020</string>
+    <string name="Cerca_msg">Cerca Messaggio</string>
+    <string name="le_tue_conversazioni">Le tue chat:</string>
+    <string name="messages_deleted">Messaggi eliminati</string>
+</resources>
